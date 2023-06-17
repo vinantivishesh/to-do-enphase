@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todo-list-header {
+  font-style: inherit;
+  font-size: large;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.todo-list-item .todo-list-item {
+  font-family: 'Courier New', Courier, monospace;
+}
